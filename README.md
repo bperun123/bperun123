@@ -10,19 +10,21 @@
 * 📫 Feel free to send me a message via LinkedIn :)
 
 ### 🛠️ Tech stack
-| :fire: Area  |  Main Technologies I use | Cherry picked favorite frameworks |
+| :fire: Area  |  Main Technologies I use | Cherry picked favorite (sub-)frameworks/tools |
 | ------------- | ------------- | ------------- |
-| **Programming languages in general**  | Content Cell  | |
-| **Frontend development**  | Content Cell  | |
-| **Backend development**  | Content Cell  | |
-| **Data engineering**  | Content Cell  | |
-| **Data analytics**  | Content Cell  | |
-| **Artificial Intelligence**  | Content Cell  | |
-| **Infrastructure and Cloud**  | Content Cell  | |
-| **Monitoring/Logs**  | Content Cell  | |
-| **IT-Security**  | Content Cell  | |
-| **IOT**  | Content Cell  | |
-| **Algotrading**  | Content Cell  | |
+| **Software architecture**  | Domain Driven Design, Microservice/SCS-Systems | My favorite SW pattern: MVP-Passive View |
+| **Frontend development**  | JavaScript: React <br /> HTML: Bootstrap <br /> CSS: Sass | Definitely Redux for structuring the state within an UI |
+| **Backend development**  | Java: Spring, Quarkus <br /> C#: Asp.Net5+ <br /> Python: FastAPI, Flask | I really like the unversal E2E + load testing tool JMeter and Swagger for visualizing REST APIs
+| **Data engineering/analytics**  | Relational DBs: PostgreSQL <br /> Search Engine/Analytics: ElasticSearch <br /> Deep Storage: S3 <br /> Data Streaming: Kafka <br /> Big Data Processing: Spark, Dask <br /> Notebooks: Jupyter, Pandas | ksql (Kafka) within bigger enterprise environments.  For data discovery: Jupyter notebooks in pycharm. |
+| **Machine Learning**  | Scikit-Learn, Tensorflow, Spacy, AX | I am more impressed from the math behind machine learing algorithms. I've often used highly specialized ML tools so far instead of the mainstream tools. |
+| **Infrastructure and Cloud**  | Clouds: Hetzner Cloud, AWS, Azure, Vultr <br /> Cloud Native: Kubernetes, Helm, Docker <br /> Provisioning: Terraform, Ansible, Bash | I highly enjoying to work at Hetzner Cloud provisioned by Ansible or Terraform. Kubernetes/Docker was a game changer! |
+| **Monitoring/Logs**  | Metrics: Prometheus, Logs: ELK-Stack <br /> Visualization: Grafana  | I really like the Prometheus integration of Grafana |
+| **Algotrading**  | C#: Ninjatrader, MultiCharts <br /> Python: IB-API | Ah. Frustrading area concerning good working tools. Ninjatrader is the best compromise. |
+| **Favorit editors**  | All JetBrains products, Visual Studio Code  | Rider for C# saved my life in Algotrading projects|
+| **IOT**  | RaspberryPi  | OpenCV (Python version) for image recognition is very nice to program  |
+
+| **Blockchain**  | ETH contracts  | |
+| **IT-Security**  | Kali Linux + Tools  | |
 
 
 ### :octocat: Overview Github projects
