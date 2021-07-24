@@ -23,10 +23,10 @@
 | **Favorit editors**  | All JetBrains products, Visual Studio Code  | Rider for C# saved my life in Algotrading projects|
 | **IOT**  | RaspberryPi  | OpenCV (Python version) for image recognition is very nice to program  |
 
-
+<!---
 | **Blockchain**  | ETH contracts  | |
 | **IT-Security**  | Kali Linux + Tools  | |
-
+--->
 
 ### :octocat: Overview Github projects
 |   Project  | Short description | Motivation | Date |
