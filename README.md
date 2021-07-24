@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bernhard
+<div align="center" size> <h3> Hi there 👋, I'm Bernhard </h3> </div>
 
 
 ### 👨🏻‍💻  About Me
