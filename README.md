@@ -5,7 +5,7 @@
 ### :octocat: Overview Github projects
 |   ✔️ Project  | ✉️ Short description | 🏍️ Motivation | 📆 Starting date |
 | ------------- | ------------- |  ------------- |  ------------- |
-| **01-java_spring-interfaces_comparison**  | Comparing REST API (sync/async), GraphQL, GRPC and Websocket concerning use cases, usage and performance  | I always wanted to explore new API technology. So far, I 've actually just used REST ;)  | 2021-07-24 |
+| **01-java_spring-interfaces_comparison**  | Comparing REST API (sync/async), GraphQL, GRPC and Websocket concerning use cases, usage and performance  | I always wanted to explore new API technology. So far, I 've actually just used REST ;)  | 2021-07-24|
 
 ### 📯 Latest Medium posts
 coming soon
