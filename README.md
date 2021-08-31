@@ -13,7 +13,7 @@
 ### :octocat: Public Github projects: Bigger Projects
 | 📆 Starting date |   ✔️ Project  | ✉️ Short description | 🏍️ Motivation | 🖥️ Main technologies |
 | ------------- | ------------- |  ------------- |  ------------- | ------------- |
- | TBD | **[A1-terraform-hcloud_kubernetes - Not released yet (private state)](https://github.com/bperun123/A1-terraform-hcloud_kubernetes)**  |  | Having a code base available for a stable and scaling kubernetes environment for testing purposes on a cheap infrastructure | Terraform, Kubernetes, kubeone |
+ | TBD | **[A1-terraform-hcloud_kubernetes - Not released yet (private state)](https://github.com/bperun123/A1-terraform-hcloud_kubernetes)**  | A modular code base which can be used as a starter for provisioning kubernetes on Hetzner Cloud | Having a code base available for a stable and scaling kubernetes environment for testing purposes on a cheap infrastructure | Terraform, Kubernetes, kubeone |
  | TBD | **[A2-python-ml4trading - Not released yet (private state)](https://github.com/bperun123/A2-python-ml4trading)**  | One of the greatest books I've seen so far concerning machine learing and algotrading (ml4trading.io). | Refreshing machine learing knowledge within algotrading space | Python / scikit-learn / Tensorflow |
 
 ### 📯 Latest Medium posts
