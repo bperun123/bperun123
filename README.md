@@ -6,6 +6,8 @@
 | 📆 Starting date |   ✔️ Project  | ✉️ Short description | 🏍️ Motivation | 🖥️ Main technologies |
 | ------------- | ------------- |  ------------- |  ------------- | ------------- |
  | 2021-07-24 | **[01-java_spring-interfaces_comparison](https://github.com/bperun123/01-java_spring-interfaces_comparison)**  | Comparing REST API (sync/async), GraphQL, GRPC and Websocket concerning use cases, usage and performance  | I always wanted to explore new API technology. So far, I 've actually just used REST ;) | Java Spring (API technologies) |
+ | 2021-08-31 | **[02-misc_langs-graphql_gateway_comparison- Not released yet (private state)](https://github.com/bperun123/02-misc_langs-graphql_gateway_comparison)**  | Comparing different GraphQL gateway solutions  | Deep dive into the world of (federated) graphql api's | GraphQL / ElasticSearch / PostgreSQL |
+
 
 ### :octocat: Public Github projects: Bigger Projects
 | 📆 Starting date |   ✔️ Project  | ✉️ Short description | 🏍️ Motivation | 🖥️ Main technologies |
