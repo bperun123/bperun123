@@ -1,24 +1,5 @@
 <div align="center" size> <h3> Hi there 👋, I'm Bernhard </h3> </div>
 
-## Activity
-
-### :octocat: Public Github projects: Proof of concepts (PoCs) and smaller projects
-| 📆 Starting date |   ✔️ Project  | ✉️ Short description | 🏍️ Motivation | 🖥️ Main technologies |
-| ------------- | ------------- |  ------------- |  ------------- | ------------- |
- | 2021-07-24 | **[01-java_spring-interfaces_comparison](https://github.com/bperun123/01-java_spring-interfaces_comparison)**  | Comparing REST API (sync/async), GraphQL, GRPC and Websocket concerning use cases, usage and performance  | I always wanted to explore new API technology. So far, I 've actually just used REST ;) | Java Spring (API technologies) |
- | 2021-08-31 | **[02-misc_langs-graphql_gateway_comparison - Not released yet (private state)](https://github.com/bperun123/02-misc_langs-graphql_gateway_comparison)**  | Comparing different GraphQL gateway solutions  | Deep dive into the world of (federated) graphql api's | GraphQL / ElasticSearch / PostgreSQL |
- | TBD | **[03-etherium_solidity-smart_contract_poc - Not released yet (private state)](https://github.com/bperun123/03-etherium_solidity-smart_contract_poc)**  | First smart contract application | Giving blockchain and dapps a try (I am not a big fan atm) | Etherium Solidity |
-
-
-### :octocat: Public Github projects: Bigger Projects
-| 📆 Starting date |   ✔️ Project  | ✉️ Short description | 🏍️ Motivation | 🖥️ Main technologies |
-| ------------- | ------------- |  ------------- |  ------------- | ------------- |
- | TBD | **[A1-terraform-hcloud_kubernetes - Not released yet (private state)](https://github.com/bperun123/A1-terraform-hcloud_kubernetes)**  | A modular code base which can be used as a starter for provisioning kubernetes on Hetzner Cloud | Having a code base available for a stable and scaling kubernetes environment for testing purposes on a cheap infrastructure | Terraform, Kubernetes, kubeone |
- | TBD | **[A2-python-ml4trading - Not released yet (private state)](https://github.com/bperun123/A2-python-ml4trading)**  | One of the greatest books I've seen so far concerning machine learing and algotrading (ml4trading.io). | Refreshing machine learing knowledge within algotrading space | Python / scikit-learn / Tensorflow |
-
-### 📯 Latest Medium posts
-coming soon
-
 ## About
 
 ### 👨🏻‍💻  About Me
